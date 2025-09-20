@@ -1,7 +1,7 @@
 {
     "name": "skynettechnologies/all-in-one-accessibility-bundle",
     "keywords":["OroCommerce", "Oro", "extension", "bundle","accessibility"],
-    "description": "All in One Accessibility widget improves Sylius website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139",
+    "description": "Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!",
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {
