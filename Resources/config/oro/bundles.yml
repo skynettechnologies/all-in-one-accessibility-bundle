@@ -1,0 +1,2 @@
+bundles:
+  - { name: Skynettechnologies\Bundle\AllInOneAccessibilityBundle\SkynettechnologiesAllInOneAccessibilityBundle, priority: 255 }

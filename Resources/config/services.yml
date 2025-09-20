@@ -1,0 +1,13 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    Skynettechnologies\Bundle\AllInOneAccessibilityBundle\EventSubscriber\FrontendScriptSubscriber:
+        tags:
+            - { name: kernel.event_subscriber }
+    # Your controller (must be public)
+    Skynettechnologies\Bundle\AllInOneAccessibilityBundle\Controller\SettingsController:
+        public: true
+        tags: ['controller.service_arguments']

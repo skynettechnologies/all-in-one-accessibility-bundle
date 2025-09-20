@@ -1,0 +1,3 @@
+skynettechnologies_allinoneaccessibility_settings:
+  path: /admin/allinoneaccessibility
+  defaults: { _controller: 'Skynettechnologies\\Bundle\\AllInOneAccessibilityBundle\\Controller\\SettingsController::indexAction' }

@@ -1,0 +1,13 @@
+navigation:
+  menu_config:
+    items:
+      skynettechnologies_allinoneaccessibility_settings:
+        label: 'All in One Accessibility'
+        route: skynettechnologies_allinoneaccessibility_settings
+        position: 100
+    tree:
+      application_menu:
+        children:
+          system_tab:
+            children:
+              skynettechnologies_allinoneaccessibility_settings: ~
